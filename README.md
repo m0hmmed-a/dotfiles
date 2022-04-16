@@ -1,5 +1,7 @@
 This repository is used by [Le Wagon](https://www.lewagon.com) students.
 
+<img src="logo.png">
+
 ## Toolset
 
 - [oh-my-zsh](http://ohmyz.sh/)
